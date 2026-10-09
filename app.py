@@ -1,4 +1,4 @@
 name="Jack"
 age=23
-car="Ford"
-model="Endevor"
+car="Kia"
+model="Sorento"
